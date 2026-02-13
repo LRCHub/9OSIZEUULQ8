@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Mise-en-Scène",
+  "base_artist": "IZ*ONE",
+  "createdAt": "2026-02-13T20:08:20.499246Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mise-en-Scène",
+      "artist": "IZ*ONE",
+      "has_synced": true,
+      "path": "select/01_Mise-en-Scène_IZ_ONE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mise-en-Scène",
+      "artist": "IZ*ONE (아이즈원)",
+      "has_synced": true,
+      "path": "select/02_Mise-en-Scène_IZ_ONE_(아이즈원).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mise-en-Scène",
+      "artist": "IZ*ONE (아이즈원)",
+      "has_synced": true,
+      "path": "select/03_Mise-en-Scène_IZ_ONE_(아이즈원).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mise-en-scène",
+      "artist": "Guinga",
+      "has_synced": false,
+      "path": "select/04_Mise-en-scène_Guinga.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mise-en-Scène",
+      "artist": "IZ*ONE",
+      "has_synced": false,
+      "path": "select/pl_01_Mise-en-Scène_IZ_ONE.txt"
+    }
+  ]
+}
